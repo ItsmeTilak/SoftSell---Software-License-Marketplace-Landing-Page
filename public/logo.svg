@@ -1,0 +1,12 @@
+<svg width="300" height="100" viewBox="0 200 100 " fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue circle with two inner white circles -->
+  <circle cx="50" cy="50" r="45" fill="#0EA5E9"/>
+  <circle cx="40" cy="50" r="15" fill="white"/>
+  <circle cx="60" cy="50" r="15" fill="white"/>
+  
+  <!-- Blue rectangle for text background -->
+  <rect x="110" y="20" width="160" height="60" fill="#0EA5E9" rx="10"/>
+  
+  <!-- Text "SoftSell" with white color -->
+  <text x="120" y="60" font-size="40" font-family="Arial" fill="white">SoftSell</text>
+</svg>
