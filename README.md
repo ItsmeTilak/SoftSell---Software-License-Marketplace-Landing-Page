@@ -3,6 +3,7 @@
 ![SoftSell Logo](./public/logo.svg)
 
 A fully responsive, single-page landing website built for SoftSell - a SaaS platform that helps users sell their unused software licenses.
+[URL for Landing Page](https://soft-sell-software-license-marketplace-landing-page.vercel.app/)
 
 ## 📋 Features
 
