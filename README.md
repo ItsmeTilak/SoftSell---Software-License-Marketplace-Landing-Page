@@ -3,6 +3,7 @@
 ![SoftSell Logo](./public/logo.svg)
 
 A fully responsive, single-page landing website built for SoftSell - a SaaS platform that helps users sell their unused software licenses.
+
 [URL for Landing Page](https://soft-sell-software-license-marketplace-landing-page.vercel.app/)
 
 ## 📋 Features
@@ -72,7 +73,7 @@ A fully responsive, single-page landing website built for SoftSell - a SaaS plat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/softsell-landing.git
+   git clone https://github.com/ItsmeTilak/softsell-landing.git
    cd softsell-landing
    ```
 
